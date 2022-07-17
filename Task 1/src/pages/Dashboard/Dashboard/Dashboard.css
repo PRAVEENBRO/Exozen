@@ -1,0 +1,9 @@
+.btnstyle {
+  border-radius: 2rem !important;
+}
+
+.btnbar {
+  box-shadow: 5px 5px 34px -10px rgba(0, 0, 0, 0.75) !important;
+  /* box-shadow: 0 0 5px 5px 34px -10px rgba(246, 244, 244, 0.75) !important; */
+  border-radius: 1rem !important;
+}

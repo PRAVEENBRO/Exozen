@@ -1,0 +1,14 @@
+.shadow {
+  /* box-shadow: none !important; */
+  box-shadow: 0px 4px 43px 8px rgba(0, 0, 0, 0.16) !important;
+}
+.shadow:hover {
+  transition-duration: 0.5s;
+  transform: scale(1.02);
+  box-shadow: 0px 34px 43px 8px rgba(0, 0, 0, 0.226) !important;
+}
+
+.cardhead {
+  background-color: "#070718" !important;
+  color: "#FFFFFF";
+}
